@@ -2,8 +2,7 @@
 This Python script does the below listed actions in sequence.
 1: Scans the Newswire news release contents for stocks in the news and keeps track of all news releases it ever scanned.
 2: For identified stocks in news, it scrapes Stock Price & Volume figures from Yahoo finance website for 5 days prior.
-3: Renders a Time-Series visualization/plot/graph of any found stock in the news, else it displays default stocks
-of APPLE & GOOGLE.
+
 
 STUDENT NUMBER: 100440449
 STUDENT NAME: AKANMU OLUKAYODE
