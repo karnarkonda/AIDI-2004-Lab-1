@@ -4,7 +4,7 @@ This Python script does the below listed actions in sequence.
 2: For identified stocks in news, it scrapes Stock Price & Volume figures from Yahoo finance website for 5 days prior.
 
 
-STUDENT NUMBER: 100440449
+STUDENT NUMBER: 100440449-77790
 STUDENT NAME: AKANMU OLUKAYODE
 SEMESTER: AIDI - WINTER 2021
 """
